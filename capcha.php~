@@ -10,7 +10,7 @@ class ChaptchaImage {
 		$im = imagecreatetruecolor(110, 30);
 
 		// Create some colors
-		$white = imagecolorallocate($im, 200, 200, 200);
+		$white = imagecolorallocate($im, 180, 180, 180);
 		$grey = imagecolorallocate($im, 128, 128, 128);
 		$black = imagecolorallocate($im, 0, 0, 0);
 		imagefilledrectangle($im, 0, 0, 399, 29, $white);
