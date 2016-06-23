@@ -9,5 +9,5 @@ This is simple captcha library, you can use it in your html form.
 <h3>How to use it:</h3>
 <ul>
 	<li>download the Chapcha.php and fonts folder (Used Custom fonts)</li>
-	<li>cal the createCaptcha method</li>
+	<li>call createCaptcha method</li>
 </ul>
